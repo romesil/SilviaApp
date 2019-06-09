@@ -41,7 +41,7 @@ The application is built with the Shiny package (http://shiny.rstudio.com), cons
 - `ui.R`
 - `server.R`
 
-Both files can be found here: [**here**] (my github repo link copied here)
+Both files can be found here: [**here**] (https://github.com/romesil/SilviaApp)
 
 
 Application functionality
