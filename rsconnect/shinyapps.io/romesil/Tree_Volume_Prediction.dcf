@@ -1,0 +1,12 @@
+name: Tree_Volume_Prediction
+title: Tree_Volume_Prediction
+username:
+account: romesil
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 972921
+bundleId: 2140990
+url: https://romesil.shinyapps.io/Tree_Volume_Prediction/
+when: 1560103268.76452
+asMultiple: FALSE
+asStatic: FALSE
